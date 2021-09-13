@@ -1,4 +1,4 @@
-<h3>Table without DataTable Header</h3>
+<h3>Liste des joueurs </h3>
 		
 		<script type="text/javascript">
 		jQuery( window ).load( function() {
@@ -52,162 +52,30 @@
 				<tr>
 					<th>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							#
 						</div>
 					</th>
-					<th>Student Name</th>
-					<th>Average Grade</th>
-					<th>Curriculum / Occupation</th>
-					<th>Actions</th>
+					<th>Nom</th>
+					<th>Postnom</th>
+					<th>Prenom</th>
+					<th>Nationalité</th>
+					<th>Club</th>
+					<th>Action</th>
 				</tr>
 			</thead>
 			
 			<tbody>
-			
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							1
 						</div>
 					</td>
 					<td>Lillian J. Earl</td>
 					<td>7.6</td>
 					<td>Social and human service assistant</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -219,157 +87,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+						
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							2
 						</div>
 					</td>
 					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
 					<td>6.8</td>
 					<td>Set and exhibit designer</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -381,22 +113,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+					
 					</td>
 				</tr>
 			
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							3
 						</div>
 					</td>
 					<td>Randy S. Smith</td>
 					<td>8.7</td>
 					<td>Social and human service</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -408,22 +139,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+					
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							4
 						</div>
 					</td>
 					<td>Ellen C. Jones</td>
 					<td>7.2</td>
 					<td>Education and development manager</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -435,22 +165,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+						
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							5
 						</div>
 					</td>
 					<td>Carl D. Kaya</td>
 					<td>9.5</td>
 					<td>Express Merchant Service</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -462,22 +191,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+						
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							6
 						</div>
 					</td>
 					<td>Jennifer J. Jefferson</td>
 					<td>10</td>
 					<td>Maxillofacial surgeon</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -489,22 +217,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+					
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							7
 						</div>
 					</td>
 					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
 					<td>6.8</td>
 					<td>Set and exhibit designer</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -515,23 +242,21 @@
 							<i class="entypo-cancel"></i>
 							Delete
 						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+				
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+						8
 						</div>
 					</td>
 					<td>Lillian J. Earl</td>
 					<td>7.6</td>
 					<td>Social and human service assistant</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -542,23 +267,21 @@
 							<i class="entypo-cancel"></i>
 							Delete
 						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+				
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							9
 						</div>
 					</td>
 					<td>Ellen C. Jones</td>
 					<td>7.2</td>
 					<td>Education and development manager</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -570,22 +293,21 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+					
 					</td>
 				</tr>
 				
 				<tr>
 					<td>
 						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
+							10
 						</div>
 					</td>
 					<td>Randy S. Smith</td>
 					<td>8.7</td>
 					<td>Social and human service</td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -597,1092 +319,15 @@
 							Delete
 						</a>
 						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
+						
 					</td>
 				</tr>
 				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
 			
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
 				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
+		
 				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
 				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-			
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-			
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Ellen C. Jones</td>
-					<td>7.2</td>
-					<td>Education and development manager</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Randy S. Smith</td>
-					<td>8.7</td>
-					<td>Social and human service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Jennifer J. Jefferson</td>
-					<td>10</td>
-					<td>Maxillofacial surgeon</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Carl D. Kaya</td>
-					<td>9.5</td>
-					<td>Express Merchant Service</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>Lillian J. Earl</td>
-					<td>7.6</td>
-					<td>Social and human service assistant</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<div class="checkbox checkbox-replace">
-							<input type="checkbox" id="chk-1">
-						</div>
-					</td>
-					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
-					<td>6.8</td>
-					<td>Set and exhibit designer</td>
-					<td>
-						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
-							<i class="entypo-pencil"></i>
-							Edit
-						</a>
-						
-						<a href="#" class="btn btn-danger btn-sm btn-icon icon-left">
-							<i class="entypo-cancel"></i>
-							Delete
-						</a>
-						
-						<a href="#" class="btn btn-info btn-sm btn-icon icon-left">
-							<i class="entypo-info"></i>
-							Profile
-						</a>
-					</td>
-				</tr>
 				
 			</tbody>
 		</table>
@@ -1693,5 +338,11 @@
 			<i class="entypo-plus"></i>
 			Add Row
 		</a>
+		
+		
+		
+		<br />
+		
+		
 		
 		

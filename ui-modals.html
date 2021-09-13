@@ -1241,13 +1241,13 @@
 		<script type="text/javascript">
 		function showAjaxModal()
 		{
-			jQuery('#modal-7').modal('show', {backdrop: 'static'});
+			jQuery('#modal-6').modal('show', {backdrop: 'static'});
 			
 			jQuery.ajax({
 				url: "data/ajax-content.txt",
 				success: function(response)
 				{
-					jQuery('#modal-7 .modal-body').html(response);
+					jQuery('#modal-6 .modal-body').html(response);
 				}
 			});
 		}
