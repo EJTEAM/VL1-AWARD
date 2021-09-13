@@ -72,7 +72,7 @@
 			<ul id="main-menu" class="main-menu">
 				<!-- add class "multiple-expanded" to allow multiple submenus to open -->
 				<!-- class "auto-inherit-active-class" will automatically add "active" class for parent elements who are marked already with class "active" -->
-				<li class="active opened active has-sub">
+				<li class="">
 					<a href="index.html">
 						<i class="entypo-gauge"></i>
 						<span class="title">tableau de bord</span>
@@ -88,7 +88,7 @@
 					</a>
 					
 				</li>
-				<li class="">
+				<li class="has-sub">
 					<a href="index.php?menu=voter">
 						<i class="entypo-window"></i>
 						<span class="title">Gestion Votant</span>
@@ -617,7 +617,7 @@ else
 		<!-- Footer -->
 		<footer class="main">
 			
-			&copy; 2015 <strong>Neon</strong> Admin Theme by <a href="http://laborator.co" target="_blank">Laborator</a>
+			&copy; 2021 <strong>vodacomvl1</strong> Admin Theme by <a href="" target="_blank">Laborator</a>
 		
 		</footer>
 	</div>

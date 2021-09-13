@@ -230,8 +230,8 @@
 					<td>April L. Baker <span class="label label-success">New Applicant</span></td>
 					<td>6.8</td>
 					<td>Set and exhibit designer</td>
-					<<td></td>
-					<<td></td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -255,8 +255,8 @@
 					<td>Lillian J. Earl</td>
 					<td>7.6</td>
 					<td>Social and human service assistant</td>
-					<<td></td>
-					<<td></td>
+					<td></td>
+					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
 							<i class="entypo-pencil"></i>
@@ -280,7 +280,7 @@
 					<td>Ellen C. Jones</td>
 					<td>7.2</td>
 					<td>Education and development manager</td>
-					<<td></td>
+					<td></td>
 					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
@@ -306,7 +306,7 @@
 					<td>Randy S. Smith</td>
 					<td>8.7</td>
 					<td>Social and human service</td>
-					<<td></td>
+					<td></td>
 					<td></td>
 					<td>
 						<a href="#" class="btn btn-default btn-sm btn-icon icon-left">
